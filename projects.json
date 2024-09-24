@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Spotify Clone",
+    "desc": "Full-Stack Spotify Clone Built Using MERN Stack",
+    "image": "spotify",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects",
+      "code": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects"
+    }
+  },
+  {
+    "name": "Netflix Clone",
+    "desc": "Full-Stack NetFlix Clone",
+    "image": "netflix",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType",
+      "code": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType"
+    }
+  }
+]
